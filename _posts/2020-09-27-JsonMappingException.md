@@ -3,11 +3,10 @@ title:  "Lombok 으로 선언한 Model 이 Controller 를 통해 생성되지 �
 excerpt: ""
 
 categories:
-  - development
+  - Blog
 tags:
-  - development, java, lombok, spring, JsonMappingException, jackson, databind, No, suitable, constructor
-last_modified_at: 
-  - 2020-09-27T16:16:00+09:00
+  - Blog
+last_modified_at: 2020-09-27T16:16:00+09:00
 ---
 
 수년 전 Lombok 으로 Getter/Setter 지옥을 벗어나게 되고,
